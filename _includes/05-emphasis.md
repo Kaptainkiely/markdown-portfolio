@@ -1,2 +1,3 @@
 **i am strong** </br>
-*im also funny*
+*im also funny* </br>
+thanks for coming
